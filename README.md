@@ -22,7 +22,8 @@ Projeto de Analise de Dados da disciplina Software Product: Analysis, Specificat
 
 ## 📚 Materiais
 
-
+- Projeto localizado na pasta PROJETO
+- Imagens utilizadas no arquivo Word(Artigo) estão na pasta Imagens
 
 
 ## 👨‍💻 Expert
